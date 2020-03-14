@@ -40,4 +40,11 @@ project4-6bcf9d794c-9gjpb   1/1     Running   0          71m
 127.0.0.1 - - [14/Mar/2020 03:37:40] "POST /predict HTTP/1.1" 200 -
 127.0.0.1 - - [14/Mar/2020 03:39:46] "GET / HTTP/1.1" 200 -
 127.0.0.1 - - [14/Mar/2020 03:39:46] "GET /favicon.ico HTTP/1.1" 404 -
-(venv) 192-168-1-105:project4 quincysting$ 
+
+192-168-1-105:project4 quincysting$ bash make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
