@@ -1,6 +1,6 @@
 # Operationalize a Machine Learning Microservice API
 
-[![CircleCI](https://circleci.com/gh/quincysting/project4.svg?style=svg)](https://circleci.com/gh/quincysting/project4)
+[![CircleCI](https://circleci.com/gh/quincysting/CloudDevOps-OperationalizeMachineLearningMicroServiceAPI.svg?style=svg)](https://circleci.com/gh/quincysting/CloudDevOps-OperationalizeMachineLearningMicroServiceAPI)
 
 ## Setup environment 
 1. Create virtual environment venv and activate it
@@ -11,7 +11,8 @@
 ```
 
 ## See local hadolint install instructions:   https://github.com/hadolint/hadolint
-# This is linter for Dockerfiles
+
+## This is linter for Dockerfiles
 hadolint Dockerfile
 
 ## This is a linter for Python source code linter: https://www.pylint.org/
